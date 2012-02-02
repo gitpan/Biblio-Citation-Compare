@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Biblio-Citation-Compare
-version:            0.05
+version:            0.11
 abstract:           Perl extension for performing fuzzy comparisons between bibliographic citations
 author:
     - David Bourget
@@ -14,7 +14,7 @@ requires:
     HTML::Parser:         2.25
     Test::More:           0.96
     Text::LevenshteinXS:  0.03
-    Text::Names:          0.01
+    Text::Names:          0.08
 no_index:
     directory:
         - t
