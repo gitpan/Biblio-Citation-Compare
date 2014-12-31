@@ -13,3 +13,5 @@ Revision history for Perl extension Biblio::Citation::Compare.
     - Fix for "_" in titles
 0.23  Dec 31 2014
     - Removed debug prints
+0.24  Dec 31 2014
+    - Removed unnecessary "use" statements in Makefile.PL, fixing bug RT 101163
